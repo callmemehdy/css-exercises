@@ -1,0 +1,20 @@
+.odd {
+	background-color: rgb(254, 168, 168);
+	font-family: Verdana, "DejaVu Sans", sans-serif;	  
+}
+
+.zidini-fsize {
+	font-size: 24px;
+}
+
+#even_1 {
+	font-size: 36px;
+	color: #0000ff;
+}
+/* * **The fourth element**: a light green background, a font size of 24px, and bold */
+
+#even_2 {
+	background-color: #7bfd7b;
+	font-size: 24px;
+	font-weight: bold;
+}
